@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\Relogio\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\Fatec\Desktop\Relogio\Relogio\bin\Debug\Relogio.exe
+C:\Users\Fatec\Desktop\Relogio\Relogio\bin\Debug\Relogio.pdb
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.exe
+C:\Users\Fatec\Desktop\Relogio\Relogio\obj\Debug\Relogio.pdb
